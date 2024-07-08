@@ -1,0 +1,33 @@
+-> our program around functions (i.e block of stste that manuplate data) .this is called the producedur - orintade programing
+
+->there is another way to organizing  your program which is combine data and functionality and wrap inside somthing called an object
+
+this is caled object oranted programming 
+
+->opp is a method of strature a program by vundaling releted properties and behaviour into objects
+
+#opp,s consapts
+class
+objects
+polymorphisam
+encapilsation
+inheritance
+abstraction
+
+#class
+a class of callation of objects
+a calss is a blueprint for how somthing should be defined
+
+enquiry from
+
+date: 
+candate name:
+gradution:
+mobile number:
+in pune: 
+experience:
+sources:
+
+courses:
+
+office comment:
